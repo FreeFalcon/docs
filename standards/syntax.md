@@ -201,7 +201,7 @@ while (foo);
 ```
 
 Unrelated to syntax, the last item of a for loop declaration, if incremeting
-the variable by one, should be a post-increment as opposed to a pre-increment.
+the variable by one, should be a pre-increment as opposed to a post-increment.
 
 ```C++
 // Bad:
