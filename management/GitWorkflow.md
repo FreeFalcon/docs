@@ -9,8 +9,8 @@ repository is set up and managed.
 The central repository should maintain an orderly history of commits, and
 remain structured and organized. FreeFalcon uses the Git Flow commit model-
 [click here](http://nvie.com/posts/a-successful-git-branching-model/) to learn
-more, and see [this project](nvie/gitflow) for a tool to make using Git Flow
-easy and intuitive.
+more, and see [this project](https://github.com/nvie/gitflow) for a tool to
+make using Git Flow easy and intuitive.
 
 ## Git Rules
 
